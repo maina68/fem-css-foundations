@@ -1,0 +1,10 @@
+/* one way to include fonts which we have downloaded in our fonts folder which involves using two font-face rules */
+/*@font-face {
+  font-family: Inter;
+  src: url(../fonts/Inter_18pt-Regular.ttf);
+}
+@font-face {
+  font-family: Inter;
+  src: url(../fonts/Inter_18pt-Bold.ttf);
+}*/
+@import "./base.css";
